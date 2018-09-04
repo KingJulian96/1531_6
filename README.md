@@ -1,1 +1,1 @@
-# comp_1531_6
+# lab05-interest
